@@ -1,6 +1,8 @@
 tags:
-  - a tag
+  - cli
+  - gem
+  - oo
 languages:
-  - a language
-resources: 
-  - 0
+  - ruby
+resources:
+live_assessment: true
